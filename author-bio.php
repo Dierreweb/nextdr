@@ -12,7 +12,7 @@
 
     <?php
 
-      $author_bio_avatar_size = apply_filters( 'twentythirteen_author_bio_avatar_size', 96 );
+      $author_bio_avatar_size = apply_filters('twentythirteen_author_bio_avatar_size', 96 );
 
       echo get_avatar( get_the_author_meta( 'user_email' ), $author_bio_avatar_size, '', 'author-avatar' ); ?>
 
