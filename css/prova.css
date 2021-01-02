@@ -76,7 +76,7 @@
 .wp-block-tag-cloud,
 .wp-block-verse,
 .wp-block-video {
-  clear: both;
+  /*clear: both;*/
   margin-bottom: 40px;
   margin-top: 40px; }
 
