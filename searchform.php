@@ -4,7 +4,7 @@
   */
 ?>
 
-<div class="search">
+<div class="search new-search">
   <form method="get" id="searchform" class="searchform" action="<?php echo esc_url( home_url( '/' ) ); ?>" role="search">
     <input type="search" value="<?php the_search_query(); ?>" name="s" id="s" placeholder="<?php esc_attr_e( 'Search', 'dr' ); ?>" required/>
     <button class="search-submit" type="submit" id="searchsubmit" value="<?php esc_attr_e( 'Search', 'dr' ); ?>">

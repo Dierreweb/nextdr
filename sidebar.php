@@ -4,7 +4,7 @@
   */
 ?>
 
-<aside class="sidebar-content col-md-3 col-sm-12" role="complementary">
+<aside class="my-sidebar sidebar-content col-md-3 col-sm-12" role="complementary">
   <div class="sidebar-inner">
     <div class="widget-area">
 
