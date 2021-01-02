@@ -1,0 +1,76 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 30/04/2018 08:04
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg"); }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+  font-family: Flaticon;
+  font-style: normal; }
+
+.flaticon-001-turtle:before { content: "\f100"; }
+.flaticon-002-electric-shaver:before { content: "\f101"; }
+.flaticon-003-mouse:before { content: "\f102"; }
+.flaticon-004-bacteria:before { content: "\f103"; }
+.flaticon-005-scissors:before { content: "\f104"; }
+.flaticon-006-platform:before { content: "\f105"; }
+.flaticon-007-pet-shampoo-2:before { content: "\f106"; }
+.flaticon-008-pet-shampoo-1:before { content: "\f107"; }
+.flaticon-009-pet-shampoo:before { content: "\f108"; }
+.flaticon-010-pawprints:before { content: "\f109"; }
+.flaticon-011-patch:before { content: "\f10a"; }
+.flaticon-012-vaccine:before { content: "\f10b"; }
+.flaticon-013-pet-food-1:before { content: "\f10c"; }
+.flaticon-014-pet-food:before { content: "\f10d"; }
+.flaticon-015-drops-1:before { content: "\f10e"; }
+.flaticon-016-drops:before { content: "\f10f"; }
+.flaticon-017-dermathology:before { content: "\f110"; }
+.flaticon-018-certificate:before { content: "\f111"; }
+.flaticon-019-cage:before { content: "\f112"; }
+.flaticon-020-pet-brush-1:before { content: "\f113"; }
+.flaticon-021-pet-brush:before { content: "\f114"; }
+.flaticon-022-medal:before { content: "\f115"; }
+.flaticon-023-leash:before { content: "\f116"; }
+.flaticon-024-lamp:before { content: "\f117"; }
+.flaticon-025-hamster:before { content: "\f118"; }
+.flaticon-026-fish-food-1:before { content: "\f119"; }
+.flaticon-027-fish-food:before { content: "\f11a"; }
+.flaticon-028-fish-1:before { content: "\f11b"; }
+.flaticon-029-fish:before { content: "\f11c"; }
+.flaticon-030-dog-house:before { content: "\f11d"; }
+.flaticon-031-badge:before { content: "\f11e"; }
+.flaticon-032-trophy:before { content: "\f11f"; }
+.flaticon-033-dog-1:before { content: "\f120"; }
+.flaticon-034-dog:before { content: "\f121"; }
+.flaticon-035-collar-1:before { content: "\f122"; }
+.flaticon-036-collar:before { content: "\f123"; }
+.flaticon-037-cat:before { content: "\f124"; }
+.flaticon-038-carrot:before { content: "\f125"; }
+.flaticon-039-canned-food:before { content: "\f126"; }
+.flaticon-040-rabbit:before { content: "\f127"; }
+.flaticon-041-bones:before { content: "\f128"; }
+.flaticon-042-bird-house:before { content: "\f129"; }
+.flaticon-043-bird-cage:before { content: "\f12a"; }
+.flaticon-044-bird-1:before { content: "\f12b"; }
+.flaticon-045-bird:before { content: "\f12c"; }
+.flaticon-046-bell:before { content: "\f12d"; }
+.flaticon-047-ball:before { content: "\f12e"; }
+.flaticon-048-poo:before { content: "\f12f"; }
+.flaticon-049-aquarium-1:before { content: "\f130"; }
+.flaticon-050-aquarium:before { content: "\f131"; }
