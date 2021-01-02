@@ -20,7 +20,7 @@
 
           <?php
 
-          if(has_post_thumbnail() && !post_password_required() ) {
+          if( has_post_thumbnail() && !post_password_required() ) {
 
     				$image_url = get_the_post_thumbnail_url( $post->ID, 'dierreweb_quad' ); ?>
 
